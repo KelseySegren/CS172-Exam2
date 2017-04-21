@@ -1,0 +1,13 @@
+﻿  City.cpp
+c:\users\kelsey\documents\school assignments\cs2\cs172-exam2\simcity\simcity\city.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\kelsey\documents\school assignments\cs2\cs172-exam2\simcity\simcity\city.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\kelsey\documents\school assignments\cs2\cs172-exam2\simcity\simcity\city.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\kelsey\documents\school assignments\cs2\cs172-exam2\simcity\simcity\city.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\kelsey\documents\school assignments\cs2\cs172-exam2\simcity\simcity\city.cpp(94): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\kelsey\documents\school assignments\cs2\cs172-exam2\simcity\simcity\city.cpp(98): warning C4715: 'City::getCitizensForFavoriteColor': not all control paths return a value
+  Compiling...
+  main.cpp
+  Generating Code...
+  SimCity.vcxproj -> C:\Users\Kelsey\Documents\School Assignments\CS2\CS172-Exam2\SimCity\Debug\SimCity.exe
+  SimCity.vcxproj -> C:\Users\Kelsey\Documents\School Assignments\CS2\CS172-Exam2\SimCity\Debug\SimCity.pdb (Full PDB)
